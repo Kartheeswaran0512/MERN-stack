@@ -1,0 +1,22 @@
+/* src/home.css */
+* {
+    background-color: black;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 30%;
+  font-size: 70px;
+  color: yellow;
+}
+p {
+    text-align: center;
+    font-size: 30px;
+    color: lightblue;
+}
+id {
+  text-align: center;
+  margin-bottom: auto;
+}
+th {
+  color: blue;
+}
